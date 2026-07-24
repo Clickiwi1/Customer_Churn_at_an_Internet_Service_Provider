@@ -1,0 +1,4 @@
+Contract,Total_Customers,Churned_Customers,Churn_Rate_Percent,Avg_Monthly_Charge_$
+Month-to-Month,3610,1655,45.84,65.59
+One Year,1550,166,10.71,65.66
+Two Year,1883,48,2.55,62.44

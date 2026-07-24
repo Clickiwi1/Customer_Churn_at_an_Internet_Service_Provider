@@ -1,0 +1,8 @@
+Service_Category,Category_Value,Total_Customers,Churned_Customers,Churn_Rate_Percent
+Internet Type,Fiber Optic,3035,1236,40.72
+Internet Type,Cable,830,213,25.66
+Internet Type,DSL,1652,307,18.58
+Online Security,No,5024,1574,31.33
+Online Security,Yes,2019,295,14.61
+Premium Tech Support,No,4999,1559,31.19
+Premium Tech Support,Yes,2044,310,15.17
