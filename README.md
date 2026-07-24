@@ -13,4 +13,4 @@ A strategy to retain 20–30% of churning customers saves $330,000–$500,000 pe
 
 Technology stack: SQL (DBeaver), Excel, Google docs, Bower BI, presentation for a C-level audience
 
-
+P.S. Original files are taken from https://www.kaggle.com/datasets/aadityabansalcodes/telecommunications-industry-customer-churn-dataset?utm_source=chatgpt.com 
