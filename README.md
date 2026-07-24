@@ -11,6 +11,6 @@ Switching from a monthly contract to an annual contract reduces churn by a facto
 Actual financial losses were calculated: $139,000 per month, $1.67 million per year
 A strategy to retain 20–30% of churning customers saves $330,000–$500,000 per year
 
-Technology stack: SQL (DBeaver), Excel, visual dashboards, presentation for a C-level audience
+Technology stack: SQL (DBeaver), Excel, Google docs, Bower BI, presentation for a C-level audience
 
-Translated with DeepL.com (free version)
+
